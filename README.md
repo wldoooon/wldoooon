@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/wldoooon">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Yydm4weDhhNWtidjJkNm96c2c0OXU1N2Jseng0Z3U0Z2c0OHZ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="Pixel Art Developer Coding GIF" width="450" /> 
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Yydm4weDhhNWtidjJkNm96c2c0OXU1N2Jseng0Z3U0Z2c0OHZ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="Pixel Art Developer Coding GIF" width="1800" /> 
     </a>
 </div>
 
