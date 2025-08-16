@@ -26,11 +26,11 @@
 <h3 align="center">🔗 Connect with Me:</h3>
 <p align="center">
   <a href="https://github.com/wldoooon" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-wldoooon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-  <a href="https://www.linkedin.com/in/walid-benraho/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  <a href="https://www.linkedin.com/in/walid-benraho/" target="_blank"> <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fffs" alt="LinkedIn Profile"/>
   </a>
-  <a href="mailto:walid.benraho005@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  <a href="mailto:walid.benraho005@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
   </p>
 
